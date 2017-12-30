@@ -1,1 +1,2 @@
-# 02456_p5_dermatology
+# 02456 Deep Learning - Project 5 Dermatology.
+Classifying Acne Vulgaris and Rosacea
