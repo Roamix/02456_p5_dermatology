@@ -3,4 +3,4 @@
 
 * See 'code/baseline.ipynb' for a notebook displaying results of the baseline model.
 
-* See 'code/fullmodel.ipynb' for a notebook displaying results of the final full model.
+* See 'code/fullmodel.ipynb' for a notebook displaying results of the final full model that uses transfer learning.
